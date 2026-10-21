@@ -1,11 +1,6 @@
 # نور – قرآن وأحاديث وأذكار
 
-## التشغيل
-```
-npm install
-npm run seed     # يحمّل المصحف كاملاً مرة واحدة (يحتاج إنترنت)
-npm start        # ثم افتح http://localhost:3000
-```
+
 
 ## الهيكل
 - `server.js` سيرفر Express والـ API
